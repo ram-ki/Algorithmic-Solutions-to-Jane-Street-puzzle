@@ -2,4 +2,4 @@
 
 Lastly Updated : 8/10/2021
 
-Algorithmic solutions ot jane street monthly puzzle
+Algorithmic solutions to jane street monthly puzzle
